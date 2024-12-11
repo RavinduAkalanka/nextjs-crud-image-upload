@@ -32,5 +32,5 @@ This is a Next.js project that demonstrates how to implement CRUD operations and
 
 ### **Clone the repository**
 ```bash
-git clone 
+git clone https://github.com/RavinduAkalanka/nextjs-crud-image-upload.git
 cd nextjs-crud-image-upload
